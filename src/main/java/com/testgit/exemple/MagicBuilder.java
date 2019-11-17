@@ -1,4 +1,4 @@
-package exemple;
+package com.testgit.exemple;
 
 public class MagicBuilder {
 
