@@ -6,5 +6,8 @@ public class MessageBuilder {
         return "Hello World";
     }
 
+    public static int getNumber10(){
+        return 10;
+    }
 
 }
